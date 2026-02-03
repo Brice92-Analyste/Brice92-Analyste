@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 
 
-<!--
-**Brice92-Analyste/Brice92-Analyste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Brice
 
-Here are some ideas to get you started:
+Data analyst focused on **statistical rigor**, **demographic insights**, and **clear, actionable analytics**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 What I Do
+- Statistical analysis & demographic normalization  
+- Automated Python workflows (Pandas, Plotly, Dash)  
+- Data cleaning, documentation, and reproducible pipelines  
+- Insight‑driven visualizations  
+
+## 📊 Projects
+- Crime data dashboards  
+- Gender‑based victimization analysis  
+- Code optimization & workflow automation  
+
+## 🧠 Skills
+Python • SQL • Power BI • Plotly • Scikit‑learn  
+Reproducible pipelines • Data visualization • Statistical testing  
+
+## 🌱 Learning
+Advanced modeling • Performance‑oriented Python • Dashboard UX  
+
+## 📫 Contact
+Reach out via GitHub or LinkedIn.
+
